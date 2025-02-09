@@ -16,7 +16,7 @@ CommunityModuleManager::CommunityModuleManager() :
 {
 	userCanAddItemsManually = false;
     selectItemWhenCreated = false;
-	startThread();
+	//startThread();
 }
 
 CommunityModuleManager::~CommunityModuleManager()
